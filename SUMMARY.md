@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Pendahuluan](README.md)
+* [PENDAHULUAN](README.md)
+
+## PENGANTAR
+
+* [QUICK START](pengantar/quick-start.md)
 
