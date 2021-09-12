@@ -14,7 +14,7 @@ description: >-
 * **Platform IoT gratis:** JIOT menyediakan layanan akun gratis dengan sedikit batasan. Memudahkan untuk mulai belajar dan mencoba bagaimana perangkat IoT bekerja.
 * **Sederhana Kuat:** Hanya butuh beberapa baris kode untuk perangkat anda terhubung dengan JIOT, dan mulai rekam, dapatkan data dari perangkat anda. Dapat mengatasi ribuan perangkat secara langsung tanpa pengaturan yang rumit.
 * **Infrastruktu yang Skalable dan Efisien :** Sangat mudah dikembangakan untuk proyek kecil atau membesarkan proyek ke ranah yang lebih besar.
-* **Multi Protokol :** JIOT berusaha untuk mendukung segala protokol yang berhubungan langsung dengan kebanyakan perangkat IoT seperti CAOP, MQTT, WebSocket, LwM2M dan lain sebagainya.
+* **Multi Protokol :** JIOT berusaha untuk mendukung segala protokol yang berhubungan langsung dengan kebanyakan perangkat IoT seperti COAP, MQTT, WebSocket, LwM2M dan lain sebagainya.
 
 {% hint style="info" %}
 Daftar dan masuk sekarang [DISINI](https://jiot.egrotek.id) untuk mendapatkan akun gratis JIOT dan mulailah membuat proyek IoT anda hanya dalam hitungan menit.
